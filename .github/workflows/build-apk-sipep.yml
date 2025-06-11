@@ -130,7 +130,7 @@ jobs:
         with:
           artifacts: "apks/*-output.apk,updates.json,changelog.json,changelog.md"
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: Build-${{ steps.get-date.outputs.date }}
+          tag: latest
           artifactErrorsFailBuild: true
 
       - name: Sleep for 10 seconds
