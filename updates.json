@@ -1,1 +1,160 @@
-{}
+{
+    "REDDIT_ANDEA": {
+        "app_version": "2025.12.1",
+        "patches_version": "v3.10.0-dev.3",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749673268864,
+        "date_patched": "2025-06-11 20:21:08.863558+05:30",
+        "app_dump": {
+            "app_name": "REDDIT_ANDEA",
+            "app_version": "2025.12.1",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/anddea/revanced-patches/releases/latest-prerelease",
+            "exclude_request": [
+                "change-package-name",
+                "custom-branding-name-for-reddit"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "255fc381c6d66816a7119a499fd3d2eb888b4b4fcc754d5f01c3f1a1b9242d14.rvp",
+                    "version": "v3.10.0-dev.3"
+                }
+            },
+            "no_of_patches": 13,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "REDDIT_ANDEA.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8855218&key=602efe917f5c7902f53bf38d5467febd8ce2be84",
+            "download_source": "https://www.apkmirror.com/apk/reddit-inc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "YOUTUBE_ANDEA": {
+        "app_version": "20.23.37..1555033536",
+        "patches_version": "v3.10.0-dev.3",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749673324243,
+        "date_patched": "2025-06-11 20:22:04.243376+05:30",
+        "app_dump": {
+            "app_name": "YOUTUBE_ANDEA",
+            "app_version": "20.23.37..1555033536",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/anddea/revanced-patches/releases/latest-prerelease",
+            "exclude_request": [
+                "custom-branding-icon-youtube",
+                "custom-branding-name-youtube",
+                "enable-debug-logging",
+                "hide-fullscreen-button",
+                "custom-branding-icon-for-youtube",
+                "custom-branding-name-for-youtube"
+            ],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "255fc381c6d66816a7119a499fd3d2eb888b4b4fcc754d5f01c3f1a1b9242d14.rvp",
+                    "version": "v3.10.0-dev.3"
+                }
+            },
+            "no_of_patches": 0,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "YOUTUBE_ANDEA.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9628918&key=4e92256e4b897d0df2fd9393b9e71a5ccc212825&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.andeayoutube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "twitch": {
+        "app_version": "24.8.0..2408006",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749673419082,
+        "date_patched": "2025-06-11 20:23:39.082360+05:30",
+        "app_dump": {
+            "app_name": "twitch",
+            "app_version": "24.8.0..2408006",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "twitch.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9614951&key=101b06cf9ff899f8df709201dad66d81cb6ad7b1",
+            "download_source": "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/",
+            "package_name": "tv.twitch.android.app",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "windy": {
+        "app_version": "79.0.2..801",
+        "patches_version": "v5.27.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1749673519738,
+        "date_patched": "2025-06-11 20:25:19.738176+05:30",
+        "app_dump": {
+            "app_name": "windy",
+            "app_version": "79.0.2..801",
+            "experiment": false,
+            "cli_dl": "https://github.com/inotia00/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "0d2a23fb9ef1e59c91f16f35dac65a9b5f7032dae471da0de6dd23b57b3b2f0a.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "a9150ddc3ec6932cc40263a3e46ca9b01965f4bd813b2a4976880316093bf46c.rvp",
+                    "version": "v5.27.0"
+                }
+            },
+            "no_of_patches": 0,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "windy.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9560295&key=202a9ff27af1c1342fabdbf8291885a67353d8bf",
+            "download_source": "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/",
+            "package_name": "co.windyapp.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
