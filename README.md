@@ -122,7 +122,6 @@ You can use any of the following methods to build.
 | [GLOBAL_OPTIONS_FILE*](#global-options-file)             |                 Options file to be used                 | [Builder's default file](https://github.com/nikhilbadyal/docker-py-revanced/blob/main/apks/options.json)              |
 | [GLOBAL_ARCHS_TO_BUILD*](#global-archs-to-build)         |            Arch to keep in the patched apk.             | All                                                                                                                   |
 | REDDIT_CLIENT_ID                                         |          Reddit Client ID to patch reddit apps          | None                                                                                                                  |
-| VT_API_KEY                                               |              Virus Total Key to scan APKs               | None                                                                                                                  |
 | [TELEGRAM_CHAT_ID](#telegram-support)                    |               Receiver in Telegram upload               | None                                                                                                                  |
 | [TELEGRAM_BOT_TOKEN](#telegram-support)                  |             APKs Sender for Telegram upload             | None                                                                                                                  |
 | [TELEGRAM_API_ID](#telegram-support)                     |            Used for telegram Authentication             | None                                                                                                                  |
@@ -223,6 +222,7 @@ You can use any of the following methods to build.
     - [soundcloud](https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/)
     - [stocard](https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/)
     - [willhaben](https://www.apkmirror.com/apk/willhaben/willhaben/)
+    - [proton-mail](https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/)
 
     <br>`**` - You can also patch any other app which is **not** supported officially.To do so, you need to provide
    few more inputs to the tool which are mentioned below. These config will override the sources config from the tool.
