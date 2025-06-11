@@ -10,5 +10,5 @@ def get_latest_release(repo):
         return data['message']
 
 # Usage
-repo = "ReVanced/revanced-patches"  # replace with your repository
+repo = "anddea/revanced-patches"  # replace with your repository
 print(get_latest_release(repo))

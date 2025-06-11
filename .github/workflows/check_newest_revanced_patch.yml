@@ -57,5 +57,5 @@ jobs:
         if: env.changed == 'true'
         uses: benc-uk/workflow-dispatch@master
         with:
-          workflow: build-apk.yml
+          workflow: build-apk-sipep.yml
           token: ${{ secrets.PAT }}
